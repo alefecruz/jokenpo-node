@@ -44,7 +44,7 @@ This project is under the MIT license. See the [LICENSE](/LICENSE) for more info
 
 ---
 
-Made with ♥ by Álefe Cruz :wave: [Get in touch!](https://www.alefecruz.com/)
+Made with ♥ by Álefe Cruz :wave: [Get in touch!](https://www.alefecruz.com.br/)
 
 [nodejs]: https://nodejs.org/
 [vc]: https://code.visualstudio.com/
